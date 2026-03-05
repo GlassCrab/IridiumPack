@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "fish:item/wahoo"
+  },
+	"oversized_in_gui": true
+}

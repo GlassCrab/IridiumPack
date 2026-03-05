@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "iridium:item/iridium_bow_pulling_0"
+    }
+}

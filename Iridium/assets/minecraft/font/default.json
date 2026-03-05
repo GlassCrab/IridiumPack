@@ -1,0 +1,100 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/troll.png",
+            "ascent": 7,
+            "chars": ["\u2030"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/clam.png",
+            "ascent": 7,
+            "chars": ["\u0024"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/buh2.png",
+            "ascent": 7,
+            "chars": ["\u2031"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/glorp.png",
+            "ascent": 7,
+            "chars": ["\u2050"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/hi.png",
+            "ascent": 7,
+            "chars": ["\u2051"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/keep_mining.png",
+            "ascent": 7,
+            "chars": ["\u2052"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/bleh.png",
+            "ascent": 7,
+            "chars": ["\u2053"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/cod.png",
+            "ascent": 7,
+            "chars": ["\u2054"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/finnish_flag.png",
+            "ascent": 7,
+            "chars": ["\u2055"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/phantom.png",
+            "ascent": 7,
+            "chars": ["\u2056"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/phineas.png",
+            "ascent": 7,
+            "chars": ["\u2057"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/tongue.png",
+            "ascent": 7,
+            "chars": ["\u2058"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/rabbit.png",
+            "ascent": 7,
+            "chars": ["\u2059"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/ewww.png",
+            "ascent": 7,
+            "chars": ["\u2100"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/happy.png",
+            "ascent": 7,
+            "chars": ["\u2101"]
+        },
+		{
+            "type": "bitmap",
+            "file": "minecraft:font/fishing.png",
+            "ascent": 7,
+            "chars": ["\u2102"]
+        }
+    ]
+}

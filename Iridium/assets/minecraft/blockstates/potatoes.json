@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "minecraft:block/potatoes_stage0"
+    },
+    "age=1": {
+      "model": "farming:block/ginger_seeds"
+    },
+    "age=2": {
+      "model": "farming:block/onion_seeds"
+    },
+    "age=3": {
+      "model": "farming:block/corn_seeds"
+    },
+    "age=4": {
+      "model": "minecraft:block/potatoes_stage3"
+    },
+    "age=5": {
+      "model": "farming:block/ginger_grown"
+    },
+    "age=6": {
+      "model": "farming:block/onion_grown"
+    },
+    "age=7": {
+      "model": "farming:block/corn_grown"
+    }
+  }
+}

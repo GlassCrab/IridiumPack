@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [176, 222],
+	"textures": {
+		"1": "iridium:item/glorp",
+		"particle": "iridium:gui/container/test"
+	},
+	"elements": [
+		{
+			"from": [-16, -3, 0],
+			"to": [32, 31.09, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-16, -3, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [0, 80, 0],
+			"scale": [3.66461, 3.66461, 3.66461]
+		}
+	}
+}

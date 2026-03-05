@@ -1,0 +1,77 @@
+{
+    "model": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:count",
+      "normalize": false,
+      "scale": 1,
+      "entries": [
+        {
+          "threshold": 2,
+          "model": {
+            "type": "minecraft:model",
+            "model": "currency:netherite_coin/2"
+          }
+        },
+        {
+            "threshold": 3,
+            "model": {
+              "type": "minecraft:model",
+              "model": "currency:netherite_coin/3"
+            }
+        },
+        {
+            "threshold": 4,
+            "model": {
+              "type": "minecraft:model",
+              "model": "currency:netherite_coin/4_5"
+            }
+        },
+        {
+            "threshold": 6,
+            "model": {
+              "type": "minecraft:model",
+              "model": "currency:netherite_coin/6_9"
+            }
+        },
+        {
+            "threshold": 10,
+            "model": {
+              "type": "minecraft:model",
+              "model": "currency:netherite_coin/10_13"
+            }
+        },
+        {
+            "threshold": 14,
+            "model": {
+              "type": "minecraft:model",
+              "model": "currency:netherite_coin/14_20"
+            }
+        },
+        {
+            "threshold": 21,
+            "model": {
+              "type": "minecraft:model",
+              "model": "currency:netherite_coin/21_31"
+            }
+        },
+        {
+            "threshold": 32,
+            "model": {
+              "type": "minecraft:model",
+              "model": "currency:netherite_coin/32"
+            }
+        },
+        {
+          "threshold": 64,
+          "model": {
+            "type": "minecraft:model",
+            "model": "currency:netherite_coin/64"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "currency:netherite_coin/default"
+      }
+    }
+  }

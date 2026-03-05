@@ -1,0 +1,6 @@
+{
+    "parent": "item/crossbow",
+    "textures": {
+        "layer0": "iridium:/iridium_crossbow_firework"
+    }
+}

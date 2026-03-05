@@ -1,0 +1,14 @@
+{
+	"layers": {
+		"humanoid": [
+		{
+			"texture": "iridium:iridium"
+		}
+		],
+		"humanoid_leggings": [
+		{
+			"texture": "iridium:iridium"
+		}
+		]
+	}
+}

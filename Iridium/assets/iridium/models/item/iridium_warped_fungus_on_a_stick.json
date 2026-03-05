@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "iridium:item/iridium_warped_fungus_on_a_stick"
+  }
+}

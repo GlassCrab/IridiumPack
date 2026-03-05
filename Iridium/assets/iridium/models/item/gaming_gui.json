@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "iridium:item/gaming_gui",
+		"particle": "iridium:item/gaming_gui"
+	},
+	"elements": [
+		{
+			"from": [-15.25, 0, 0],
+			"to": [28.75, 31.25, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-15.25, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [77, -67, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

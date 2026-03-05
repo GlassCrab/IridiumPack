@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [97, 125],
+	"textures": {
+		"0": "iridium:item/blank_gui_left",
+		"particle": "iridium:item/blank_gui_left"
+	},
+	"elements": [
+		{
+			"from": [5, -11, 7],
+			"to": [29.25, 20.25, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 11, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 2], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 2], "texture": "#missing"},
+				"up": {"uv": [0, 0, 2, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-4, -23, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

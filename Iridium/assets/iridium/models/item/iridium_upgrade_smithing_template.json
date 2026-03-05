@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "iridium:item/iridium_upgrade_smithing_template"
+  }
+}

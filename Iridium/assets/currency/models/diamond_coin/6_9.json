@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "currency:item/diamond_coin/6_9"
+    }
+  }

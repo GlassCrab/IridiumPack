@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "minecraft:block/carrots_stage0"
+    },
+    "age=1": {
+      "model": "farming:block/rice_seeds"
+    },
+    "age=2": {
+      "model": "farming:block/tomato_seeds"
+    },
+    "age=3": {
+      "model": "farming:block/peanut_seeds"
+    },
+    "age=4": {
+      "model": "minecraft:block/carrots_stage3"
+    },
+    "age=5": {
+      "model": "farming:block/rice_grown"
+    },
+    "age=6": {
+      "model": "farming:block/tomato_grown"
+    },
+    "age=7": {
+      "model": "farming:block/peanut_grown"
+    }
+  }
+}

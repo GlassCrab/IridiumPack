@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "fish:item/wahoo",
+		"particle": "fish:item/wahoo"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 7],
+			"to": [32, 32, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [161.38, 56.49, -154.56],
+			"translation": [0.88, 3.2, 2.63],
+			"scale": [0.38, 0.38, 0.38]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-88.92, -73.11, -93.78],
+			"translation": [0.88, 3.2, 2.63],
+			"scale": [0.38, 0.38, 0.38]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [-0.25, -2.5, 0]
+		},
+		"head": {
+			"rotation": [0, 0, 90],
+			"translation": [2.75, 30.5, 0.75]
+		}
+	}
+}

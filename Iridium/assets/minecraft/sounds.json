@@ -1,0 +1,16 @@
+{
+	"discord": {"category": "player", "sounds": ["custom/discord"]},
+	"metalpipe": {"category": "player", "sounds": ["custom/metal_pipe_falling"]},
+	"doorknocking": {"category": "player", "sounds": ["custom/knocking_on_door"]},
+	"firsteverchineseleader": {"category": "player", "sounds": ["custom/firsteverchineseleader"]},
+	"goal_horn": {"category": "player", "sounds": ["custom/goal_horn"]},
+	"labubu": {"category": "player", "sounds": ["custom/labubu"]},
+	"fahh": {"category": "player", "sounds": ["custom/fahh"]},
+	"ducksong": {"category": "player", "sounds": ["custom/ducksong"]},
+	"ez4ence": {"category": "player", "sounds": ["custom/ez4ence"]},
+	"desvelado": {"category": "player", "sounds": ["custom/desvelado"]},
+	"gummibar_english": {"category": "player", "sounds": ["custom/gummibar_english"]},
+	"gummibar_german": {"category": "player", "sounds": ["custom/gummibar_german"]},
+	"rickroll": {"category": "player", "sounds": ["custom/rickroll"]}
+	
+}
