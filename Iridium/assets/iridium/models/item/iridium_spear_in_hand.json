@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spear_in_hand",
+  "textures": {
+    "layer0": "iridium:item/iridium_spear_in_hand"
+  }
+}
